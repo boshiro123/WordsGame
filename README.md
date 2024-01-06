@@ -4,6 +4,6 @@
 Для того чтобы скачать игру нужно либо скачать zip файл, либо создать пустую папку открыть консоль в этой папку и прописать команду "git clone https://github.com/boshiro123/WordsGame.git"
 Открываете проект в Xcode и запускаете.
 
-![screen](screens/screen1.PNG)
-![screen](screens/screen2.PNG)
-![screen](screens/screen3.PNG)
+<img src="screens/screen1.PNG"  width="200" height="400">
+<img src="screens/screen2.PNG"  width="200" height="400">
+<img src="screens/screen3.PNG"  width="200" height="400">
